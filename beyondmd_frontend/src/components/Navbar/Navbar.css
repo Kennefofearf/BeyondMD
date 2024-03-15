@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+
+.nav {
+    display: flex;
+    background-color: grey;
+    color: white;
+    align-items: stretch;
+    padding: 10px;
+}
+
+.nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+}
+
+.nav a {
+    display: flex;
+    color: inherit;
+    text-decoration: none;
+    height: 100%;
+    align-items: center;
+}
+
+.nav li:hover {
+    background-color: lightslategrey;
+}

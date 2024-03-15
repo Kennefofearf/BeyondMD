@@ -1,0 +1,18 @@
+body {
+    background-color: grey;
+}
+
+.resumedisplay {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 850px;
+    width: 1000px;
+    
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
