@@ -14,6 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### `File Structure`
 
 Front-end files are located under: hello_beyondmd/beyondmd_frontend
+
 Back-end files are located under: hello_beyondmd/hello_beyondmd
 
 ### `Docker`
